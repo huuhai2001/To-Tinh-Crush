@@ -1,4 +1,4 @@
-
+.
     introTitle: Em À !! Người Con Gái Tên Nhàn !
     introDesc: Anh Thật Sự Xin Lỗi Em Vì Chuyện Vừa Qua :(
     btnIntro: Cả Ngày Hôm Nay Đã Suy Nghĩ Và Trách Bản Thân Rất Nhiều :'(
